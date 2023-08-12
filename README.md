@@ -58,6 +58,33 @@ Because every odyssey needs laughter:
 
 ---
 
+## 🎮 Projects Showcase
+
+Welcome to SharifdotG's CodeVault, an expansive repository housing a collection of coding challenges and solutions in various programming languages. From foundational problems to complex virtual judge scenarios, this CodeVault offers a diverse range of solutions. Whether you're coding in C, C++, Java, Python, Rust, or more, this repository is your go-to resource for exploring and mastering the art of programming. Embark on a journey of problem-solving excellence and unlock the vast potential of different languages within this CodeVault.
+
+[![SharifdotG's CodeVault](https://github-readme-stats.vercel.app/api/pin/?username=SharifdotG&repo=SharifdotG-s-CodeVault&theme=onedark)](https://github.com/SharifdotG/SharifdotG-s-CodeVault)
+
+## 📚 Learning Path 🌱
+
+Embark on a journey through my learning path, filled with determination and growth:
+
+1. 🎓 Started learning C before university classes began.
+2. 📖 Mastered 75% of C during my first year.
+3. 🚀 Ventured into Competitive Programming in parallel with my studies.
+4. 🤖 Enrolled in Machine Learning and Deep Learning courses during semester breaks.
+5. 🐍 Learned Python as part of my machine learning journey.
+6. ☕ Embraced Java to prepare for second-year Object-Oriented Programming.
+7. 💻 Regularly solved problems on platforms like Codeforces and Beeecrowd.
+8. 🏆 Participated in two physical programming contests at my university.
+
+## 🏆 Challenges and Achievements 🌟
+
+I've faced numerous challenges during my journey in CSE and programming, including sleepless nights and time management struggles. However, these challenges have only fueled my determination to overcome them and achieve greater heights!
+
+## 🎮 Future Goals 🚀
+
+While my path ahead might evolve, my passion remains steadfast. I aspire to be a game developer, but I'm also intrigued by the potential of AI and data science. The future is full of exciting possibilities, and I'm dedicated to learning and applying new skills to create meaningful projects that align with my interests and passions.
+
 🔗 Connect, code, and conquer. Your presence here fuels my cosmic journey. Witness ideas evolve into reality, and if generosity flows, invigorate my odyssey with a virtual coffee:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SharifdotG)
