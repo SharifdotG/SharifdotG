@@ -293,8 +293,11 @@ If you find my projects helpful or enjoy my contributions to the developer commu
 
 ---
 
-![Snake animation](https://github.com/SharifdotG/SharifdotG/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/SharifdotG/SharifdotG/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
