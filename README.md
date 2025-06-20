@@ -269,16 +269,6 @@ If you find my projects helpful or enjoy my contributions to the developer commu
 
 ---
 
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-
-[![Spotify](https://novatorem-ten-black.vercel.app/api/spotify)](https://open.spotify.com/user/sharifdotg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad."**
@@ -290,14 +280,6 @@ If you find my projects helpful or enjoy my contributions to the developer commu
 ⭐ **Don't forget to star repositories you find interesting!**
 🤝 **Open to collaborations and interesting projects**
 📧 **Feel free to reach out for any opportunities or discussions**
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SharifdotG/SharifdotG/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
